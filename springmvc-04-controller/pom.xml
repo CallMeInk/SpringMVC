@@ -12,4 +12,12 @@
     <artifactId>springmvc-04-controller</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>anialy-repo.org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.22</version>
+        </dependency>
+    </dependencies>
+
 </project>
