@@ -11,6 +11,7 @@
         <module name="springmvc02hellomvc" />
         <module name="springmvc03annotation" />
         <module name="springmvc04controller" />
+        <module name="springmvc05json" />
       </profile>
     </annotationProcessing>
   </component>
