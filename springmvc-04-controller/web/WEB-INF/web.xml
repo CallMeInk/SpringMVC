@@ -21,7 +21,7 @@
 
     <!--<filter>-->
         <!--<filter-name>encodingFilter</filter-name>-->
-        <!--<filter-class>com.kuang.filter.EncodingFilter</filter-class>-->
+        <!--<filter-class>com.com.kuang.filter.EncodingFilter</filter-class>-->
     <!--</filter>-->
     <!--<filter-mapping>-->
         <!--<filter-name>encodingFilter</filter-name>-->
